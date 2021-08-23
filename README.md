@@ -1,4 +1,7 @@
-### Hi there 👋
+![](this-is-the-internet.gif)
+
+[![Kir4h's GitHub stats](https://github-readme-stats.vercel.app/api?username=kir4h&show_icons=true&theme=radical&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kir4h)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kir4h/kir4h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
